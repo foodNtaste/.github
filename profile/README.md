@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/foodNtaste">
-    <img src="images/grafik.png" alt="Logo" width="80" height="80">
+    <img src="../images/grafik.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">foodNtaste</h3>
